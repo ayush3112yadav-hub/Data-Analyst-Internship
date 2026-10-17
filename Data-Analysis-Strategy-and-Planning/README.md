@@ -1,4 +1,4 @@
-# 1: Data Analysis Strategy and Planning
+# Week 1: Data Analysis Strategy and Planning
 
 **Deliverable:** [Project FOODFLOW: Data Analysis Plan](./Project_FOODFLOW_Data_Analysis_Plan.docx)
 
