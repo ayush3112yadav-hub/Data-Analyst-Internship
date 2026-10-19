@@ -154,8 +154,12 @@ To guarantee reporting reliability, the model underwent four layers of testing: 
 3: R3 (Protein Ratio): Aggregate protein sum ($440.02\text{ g}$) divided by $8\text{ nations} = 55.0025\text{ g/day}$ (matching cell Y2)[cite: 2].
 
 ## 📁 Repository Structure
-
-
+```plaintext
+├── Advanced_Excel_Functions_and_Automation.docx   # Comprehensive project report (Word document)
+├── Advanced_Excel_Functions_and_Automation.pdf    # Complete documentation and validation findings (PDF)
+├── Food_supply_FAO_2020.xlsm                      # Macro-enabled Excel workbook containing the dataset & VBA code
+└── README.md                                      # Project overview, formula logic, test matrix, and setup guide
+```
 
 ## 🚀 How to Run the Macro
 1: Open Food_supply_FAO_2020.xlsm using desktop Microsoft Excel on Windows or macOS[cite: 2].
