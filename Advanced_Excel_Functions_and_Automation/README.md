@@ -150,7 +150,9 @@ To guarantee reporting reliability, the model underwent four layers of testing: 
 
 ### Mathematical Reconciliation Checks
 1: R1 (Full Table Count): $\text{Adequate (5,994)} + \text{Warning (2,980)} + \text{Severe Deficit (2,054)} = 11,028\text{ rows}$[cite: 2].
+
 2: R2 (2017 Sovereign Total): $131\text{ (Adequate)} + 33\text{ (Warning)} + 8\text{ (Severe Deficit)} = 172\text{ sovereign nations}$[cite: 2].
+
 3: R3 (Protein Ratio): Aggregate protein sum ($440.02\text{ g}$) divided by $8\text{ nations} = 55.0025\text{ g/day}$ (matching cell Y2)[cite: 2].
 
 ## 📁 Repository Structure
@@ -163,8 +165,11 @@ To guarantee reporting reliability, the model underwent four layers of testing: 
 
 ## 🚀 How to Run the Macro
 1: Open Food_supply_FAO_2020.xlsm using desktop Microsoft Excel on Windows or macOS[cite: 2].
+
 2: Click Enable Content in the yellow Trust Center security bar if prompted[cite: 2].
+
 3: Press Alt + F8, select GenerateActionReport, and click Run[cite: 2].
+
 4: Confirm the completion message ("Found 8 crisis zones") and view the freshly formatted table on the Action_Required sheet[cite: 2].
 
 <FollowUp>
